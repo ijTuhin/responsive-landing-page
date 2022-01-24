@@ -5,3 +5,23 @@ font-family: 'Outfit', sans-serif;
 font-family: 'Source Sans Pro', sans-serif; */
 
 /* Carousel */
+.body{
+    font-family: 'Dongle', sans-serif;
+}
+.btn-transparent{
+    background-color: rgba(36, 133, 197, 0.85);
+}
+.more-rounded{
+    border-radius: 4%;
+}
+.btn-highlight{
+    background-color: goldenrod;
+}
+.shadow-custom{
+    box-shadow: 2px 2px 50px 10px rgba(161, 154, 139, 0.466);
+}
+.p-text{
+    color: rgb(253, 249, 249);
+    font-size: 1.1em;
+    font-weight: 1000px;
+}
