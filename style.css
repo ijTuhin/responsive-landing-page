@@ -1,16 +1,12 @@
-/*
-style="background-color: #faece3;"
- font-family: 'Dongle', sans-serif;
-font-family: 'Outfit', sans-serif;
-font-family: 'Source Sans Pro', sans-serif; */
-
-/* Carousel */
+/* Font style for all  */
 .body{
     font-family: 'Dongle', sans-serif;
 }
+/* For Carousel Button  */
 .btn-transparent{
     background-color: rgba(36, 133, 197, 0.85);
 }
+/* For Highlighted Card Border */
 .more-rounded{
     border-radius: 4%;
 }
